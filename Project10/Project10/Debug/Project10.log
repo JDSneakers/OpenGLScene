@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(285,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(402,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(403,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(407,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(408,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(410,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(411,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johna\source\repos\Project10\Project10\Source.cpp(420,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project10.vcxproj -> C:\Users\johna\source\repos\Project10\Debug\Project10.exe
